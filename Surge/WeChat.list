@@ -210,7 +210,8 @@ DOMAIN-KEYWORD,61.241.47.
 DOMAIN-KEYWORD,61.241.49.
 DOMAIN-KEYWORD,43.156.86.
 DOMAIN-KEYWORD,43.156.222.
-
+DOMAIN-KEYWORD,43.155.124.
+DOMAIN-KEYWORD,43.163.179.
 # WeChat Pay SDK
 DOMAIN-KEYWORD,101.226.129.
 DOMAIN-KEYWORD,101.227.162.
@@ -326,7 +327,11 @@ DOMAIN,vweixinf.tc.qq.com
 DOMAIN,weixin110.qq.com
 DOMAIN,wup.imtt.qq.com
 DOMAIN,wx.tenpay.com
+DOMAIN,liteapp.weixin.qq.com
+DOMAIN,marscdnbypass-wxapp.tc.qq.com
 DOMAIN,wxapp.tc.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,map.qq.com
 DOMAIN-SUFFIX,qlogo.cn
